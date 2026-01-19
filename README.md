@@ -82,16 +82,6 @@ Run tests:
 mvn test
 ```
 
-## Git workflow (verbose)
-
-Example commands you can use during development:
-
-```bash
-git init
-git add -A
-git commit -m "chore: bootstrap project"
-
-git status
 
 git add src/main/java/com/example/store/StoreManagementApiApplication.java
 git commit -m "feat: add Spring Boot entrypoint"
