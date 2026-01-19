@@ -1,0 +1,10 @@
+/target/
+/.idea/
+*.iml
+*.log
+*.swp
+.DS_Store
+
+# H2
+*.mv.db
+*.trace.db
